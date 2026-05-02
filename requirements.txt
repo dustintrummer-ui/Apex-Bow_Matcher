@@ -1,5 +1,3 @@
-## requirements.txt
-
 ```text
 streamlit
 pandas
