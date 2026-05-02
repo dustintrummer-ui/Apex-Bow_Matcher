@@ -1,0 +1,7 @@
+## requirements.txt
+
+```text
+streamlit
+pandas
+beautifulsoup4
+requests
